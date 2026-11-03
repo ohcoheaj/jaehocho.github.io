@@ -1,2 +1,1 @@
-# jaehocho.github.io
-intro
+# Personal Web Page
