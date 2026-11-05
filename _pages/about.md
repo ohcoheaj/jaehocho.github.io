@@ -21,7 +21,7 @@ My research interests include Transfer Learning, Semi/Self-Supervised Learning, 
   .news-item .news-text { flex: 1; min-width: 0; }
   .news-item .news-venue { color: #283593; }
   .news-item .news-authors { margin-top: 0.3em; font-size: 0.9em; color: #666; }
-  .news-item img { width: 320px; max-width: 45%; height: auto; flex-shrink: 0; object-fit: contain; border-radius: 6px; background: #fff; }
+  .news-item img { width: 340px; max-width: 45%; height: auto; flex-shrink: 0; object-fit: contain; border-radius: 6px; background: #fff; }
   @media (max-width: 600px) { .news-item { flex-direction: column; align-items: flex-start; } .news-item img { width: 100%; max-width: 100%; } }
   html[data-theme="dark"] .news-item .news-venue { color: #9fa8da; }
   html[data-theme="dark"] .news-item .news-authors { color: #aaa; }
@@ -29,7 +29,7 @@ My research interests include Transfer Learning, Semi/Self-Supervised Learning, 
 </style>
 
 <div class="news-item">
-  <img src="{{ base_path }}/images/epar_teaser.jpg" alt="WACV 2027 EPAR teaser" />
+  <img src="{{ base_path }}/images/epar_teaser.png" alt="WACV 2027 EPAR teaser" />
   <div class="news-text">
     <strong>[2026]</strong> One paper accepted at <strong class="news-venue">WACV 2027</strong>: <a href="https://github.com/ohcoheaj/EPAR"><em>Embedding Predictive Adaptation and Refinement for Multi-Modal Industrial Anomaly Detection</em></a>
     <div class="news-authors"><strong>Jaeho Cho</strong>, Jinsik Bang, and Taehwan Kim</div>
