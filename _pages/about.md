@@ -58,4 +58,6 @@ My research interests include Transfer Learning, Semi/Self-Supervised Learning, 
 
 ## Contact
 
-[jh_cho@unist.ac.kr](mailto:jh_cho@unist.ac.kr) · UNIST, Ulsan, South Korea
+* [jh_cho@unist.ac.kr](mailto:jh_cho@unist.ac.kr)
+* [ho8294@hanyang.ac.kr](mailto:ho8294@hanyang.ac.kr)
+* [chad8294@naver.com](mailto:chad8294@naver.com)
