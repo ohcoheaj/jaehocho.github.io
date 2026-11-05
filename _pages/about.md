@@ -29,15 +29,15 @@ My research interests include Transfer Learning, Semi/Self-Supervised Learning, 
 
 <div class="news-item">
   <div class="news-text">
-    <strong>[2026]</strong> One paper accepted at <strong class="news-venue">WACV 2027</strong>: <a href="https://github.com/ohcoheaj/EPAR"><em>Embedding Predictive Adaptation and Refinement for Multi-Modal Industrial Anomaly Detection</em></a>, Orlando
+    <strong>[2026]</strong> One paper accepted at <strong class="news-venue">WACV 2027</strong>: <a href="https://github.com/ohcoheaj/EPAR"><em>Embedding Predictive Adaptation and Refinement for Multi-Modal Industrial Anomaly Detection</em></a>
     <div class="news-authors"><strong>Jaeho Cho</strong>, Jinsik Bang, and Taehwan Kim</div>
   </div>
-  <img src="{{ base_path }}/images/epar_feature_adaptation.png" alt="WACV 2027 EPAR teaser" />
+  <img src="{{ base_path }}/images/epar_teaser.jpg" alt="WACV 2027 EPAR teaser" />
 </div>
 
 <div class="news-item">
   <div class="news-text">
-    <strong>[Jul. 2026]</strong> Internship at <strong class="news-venue">POSCO DX</strong> (Intelligence Operation Group): real-time detection of key steel tapping events and PLC integration
+    <strong>[Jul. 2026]</strong> Internship at <strong class="news-venue">POSCO DX</strong>
   </div>
 </div>
 
