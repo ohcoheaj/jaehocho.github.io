@@ -1,14 +1,43 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Projects"
 permalink: /portfolio/
 author_profile: true
 ---
 
 {% include base_path %}
 
+{% capture projects %}
+Experience
+======
+* **Intern**, POSCO DX (Intelligence Operation Group), Jul. 2026
+  * Real-time detection model (YOLOv11) for key steel tapping events and validation of PLC integration with a mock PLC server
+* **Research Intern**, MVL Lab, UNIST, Jul. 2024 – Aug. 2024 (Advisor: Taehwan Kim)
+  * Semi-supervised learning, multi-modal representation learning
+* **Research Intern**, Visual Intelligence Lab, ETRI, Jan. 2024 – Feb. 2024 (Advisor: Kimin Yun)
+  * Domain adaptation of Grounding DINO for banner detection via semi-supervised learning
+* **Research Intern**, Field Robotics Lab, ETRI (UST), Jul. 2023 – Aug. 2023 (Advisor: Seung Ik Lee)
+  * Out-of-distribution object detection with Detection Transformer
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+Research Projects
+======
+* **IITP Hyperscale Industrial AI** @ IMML Lab, May 2026 – Dec. 2026 (Co-first Author)
+  * Benchmark for large-scale engineering drawings with a VLM fine-tuned via supervised fine-tuning
+* **Multi-Modal Industrial Anomaly Detection** @ IMML Lab, Jun. 2025 – Mar. 2026 (First Author)
+  * Extracting and fusing defect information from RGB and 3D point clouds
 
+Awards and Honors
+======
+* 3rd Prize, WCRC Data Contest (deep learning session), 2023
+* Participation Award, KSC 2023 Undergraduate/Junior Paper Competition, 2023
+* Haesung Cultural Foundation Scholarship, 2024
+* Software Brain Scholarship (Academic Excellence), Hanyang University ERICA, 2022–2023
+* ERICA Excellent Talent Scholarship, Hanyang University ERICA, 2019
+* Dacon: Low-resolution bird image classification (20 / 385, top 5%); LG Aimers 3rd Hackathon (71 / 747, top 10%)
+
+Skills
+======
+* **Programming**: Python (Advanced), PyTorch, R (Intermediate), Java (Beginner)
+* **Language**: English — OPIc Intermediate High (IH)
+{% endcapture %}
+{{ projects | markdownify }}
