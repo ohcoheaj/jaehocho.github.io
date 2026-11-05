@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am a second-year M.S. student in the [Graduate School of Artificial Intelligence](https://aigs.unist.ac.kr/) at the [Ulsan National Institute of Science and Technology (UNIST)](https://www.unist.ac.kr), working in the [IMML Lab](https://sites.google.com/view/imml-lab) under the supervision of Prof. Taehwan Kim. I received my B.S. degrees in Media Technology and Applied Mathematics (double major) from Hanyang University ERICA, graduating early with *Summa Cum Laude*.
+I am a second-year M.S. student in the [Graduate School of Artificial Intelligence](https://aigs.unist.ac.kr/) at the [Ulsan National Institute of Science and Technology (UNIST)](https://www.unist.ac.kr), working in the [IMML Lab](https://sites.google.com/view/imml-lab) under the supervision of Prof. Taehwan Kim. I received my B.S. degrees from the Division of Media, Culture, and Design Technology and the Department of Applied Mathematics (double major) at Hanyang University ERICA, graduating early with *Summa Cum Laude*.
 
 My research interests include Transfer Learning, Semi/Self-Supervised Learning, Object Detection, Anomaly Detection, and Industrial AI (AI+X). I am particularly interested in learning robust representations from limited labels and multiple sensors (e.g., RGB and 3D point clouds) to build reliable AI systems for real-world industrial applications.
 
