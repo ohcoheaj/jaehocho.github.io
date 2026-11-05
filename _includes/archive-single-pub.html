@@ -1,0 +1,10 @@
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    <h2 class="archive__item-title" itemprop="headline">{{ post.title }}</h2>
+    <p>Published in <i>{{ post.venue }}</i>, {{ post.date | date: "%Y" }}{% if post.note %} ({{ post.note }}){% endif %}</p>
+    {% if post.authors %}<p>{{ post.authors }}</p>{% endif %}
+    {% if post.links %}
+    <p>{% for link in post.links %} <a href="{{ link.url }}">[{{ link.name }}]</a>{% endfor %}</p>
+    {% endif %}
+  </article>
+</div>

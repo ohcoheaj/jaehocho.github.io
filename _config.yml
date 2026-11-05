@@ -23,14 +23,14 @@ repository               : "ohcoheaj/jaehocho.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Jaeho Cho"
   pronouns         : # example: "she/her"  
-  bio              : "Multimodal industrial anomaly detection · Self-supervised representation learning"
+  bio              : "M.S. Student @ UNIST AIGS<br>Anomaly Detection · Object Detection · Semi/Self-Supervised Learning · Industrial AI"
   location         : "Ulsan, Republic of Korea"
-  employer         : "UNIST"
+  employer         : '<a href="https://www.unist.ac.kr">UNIST</a>, <a href="https://sites.google.com/view/imml-lab">IMML Lab</a>'
   uri              : # URL
-  email            : # TODO: public contact e-mail 
+  email            : "jh_cho@unist.ac.kr"
 
   # Academic websites
   academia         : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "jaeho-cho-b50692277"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -90,6 +90,8 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  domestic:
+    title: 'Domestic Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
