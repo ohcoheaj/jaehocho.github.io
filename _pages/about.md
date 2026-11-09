@@ -33,7 +33,7 @@ My research interests include Transfer Learning, Semi/Self-Supervised Learning, 
 <div class="news-item news-item--stacked">
   <img src="{{ base_path }}/images/epar_teaser.png" alt="WACV 2027 EPAR teaser" />
   <div class="news-text">
-    <strong>[Oct. 2026]</strong> One paper accepted at <strong class="news-venue">WACV 2027</strong>: <a href="https://github.com/ohcoheaj/EPAR"><em>Embedding Predictive Adaptation and Refinement for Multi-Modal Industrial Anomaly Detection</em></a>
+    <strong>[Oct. 2026]</strong> One paper accepted at <strong class="news-venue">WACV 2027</strong>: <a href="https://arxiv.org/abs/2611.09521"><em>Embedding Predictive Adaptation and Refinement for Multi-Modal Industrial Anomaly Detection</em></a>
     <div class="news-authors"><strong>Jaeho Cho</strong>, Jinsik Bang, and Taehwan Kim</div>
   </div>
 </div>
